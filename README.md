@@ -1,4 +1,4 @@
-# Proyecto Final del Datatón ITAM
+# Proyecto Final del Datatón ITAM - Dataztlan
 
 ## **Revolución E-commerce para Tiendas Departamentales: Conectando con Más Consumidores**
 
