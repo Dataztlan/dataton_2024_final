@@ -12,6 +12,26 @@ Los tres grupos principales de tiendas afiliadas a la ANTAD (tiendas de autoserv
 
 Ten en cuenta que el objetivo principal de las tiendas afiliadas es incluir al mayor número posible de consumidores, pero manteniendo su capacidad de satisfacer la demanda que enfrenten. Puedes elegir hacer este análisis para uno de los tres grupos de tiendas afiliadas a la ANTAD, o hacer una recomendación general para todas las empresas afiliadas.
 
+### **Puntos Seguidos en la Resolución del Problema**
+
+1. **E-commerce EE.UU. y México**  
+   Análisis de las tendencias y características del e-commerce en ambos países para identificar oportunidades y desafíos específicos.
+
+2. **Modelo de éxito de e-commerce**  
+   Identificación de los elementos clave que hacen que las plataformas de e-commerce sean exitosas, aprendiendo de las mejores prácticas y casos de éxito.
+
+3. **La mejor ruta**  
+   Determinación de las estrategias más efectivas para implementar soluciones de e-commerce, considerando la logística y la accesibilidad.
+
+4. **Experiencia de usuario amigable**  
+   Propuestas para garantizar que las plataformas sean intuitivas y satisfactorias para el consumidor, mejorando la navegación y el proceso de compra.
+
+5. **Expandir la distribución**  
+   Estrategias para ampliar el alcance y distribución de productos, permitiendo a las tiendas atender a un mayor número de consumidores.
+
+6. **Resultado: Satisfacción del cliente**  
+   Foco en cómo cada propuesta contribuirá a la satisfacción del cliente, que es clave para el éxito a largo plazo.
+
 ### **Equipo del Proyecto**
 
 - **Diego Pérez Reyes**
