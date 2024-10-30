@@ -2,7 +2,7 @@
 
 ## **Revolución E-commerce para Tiendas Departamentales: Conectando con Más Consumidores**
 
-¡Bienvenidos al repositorio del proyecto final del Datatón ITAM! En este proyecto, nuestro equipo trabajó para desarrollar soluciones innovadoras que transformen el comercio electrónico en tiendas departamentales, facilitando la conexión con un mayor número de consumidores.
+¡Bienvenidos al repositorio del proyecto final del Datatón ITAM! En este proyecto, nuestro equipo, **Dataztlán**, una startup de tecnología fundada por estudiantes itamitas, trabajó para desarrollar soluciones innovadoras que transformen el comercio electrónico en tiendas departamentales, facilitando la conexión con un mayor número de consumidores. Dataztlán se especializa en el desarrollo de software a la medida, inteligencia artificial, cómputo en la nube y hardware.
 
 ### **Pregunta a Resolver**
 
